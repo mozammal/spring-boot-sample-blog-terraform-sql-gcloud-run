@@ -1,5 +1,4 @@
-# spring-boot-terraform-google-sql-gcloud-run-demo
-
+# spring-boot-sample-blog-terraform-sql-gcloud-run
 This example shows how to run a hello world service on Google Run using Terraform
 
 **Prerequisites:** [Java 11](https://adoptopenjdk.net/)
